@@ -1,0 +1,6 @@
+
+    train: ./CustomDataSets/data/train/images
+    val: ./CustomDataSets/data/valid/images
+    nc: 5
+    names: ["CalendarSlide","RadioGroup","SubPageMenu","ScrollList","CustomPicker"]
+  
